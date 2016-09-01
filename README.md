@@ -1,16 +1,18 @@
 # IsX
+ __________
 < Blackode >
+ ----------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
                                   ___    __  __
                                  |_ _|___\ \/ /
                                   | |/ __|\  / 
                                   | |\__ \/  \ 
                                  |___|___/_/\_\
+                                               
 ## Installation
 
 [available in Hex](https://hex.pm/packages/is_x), the package can be installed as:
