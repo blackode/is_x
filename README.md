@@ -1,7 +1,4 @@
 # IsX
-
-**TODO: Add description**
-```
  __________
 < Blackode >
  ----------
@@ -16,9 +13,6 @@
                                   | |/ __|\  / 
                                   | |\__ \/  \ 
                                  |___|___/_/\_\
-                                               
-```
-
 ## Installation
 
 [available in Hex](https://hex.pm/packages/is_x), the package can be installed as:
