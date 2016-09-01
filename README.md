@@ -1,10 +1,27 @@
 # IsX
 
 **TODO: Add description**
+```
+ __________
+< Blackode >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+                                  ___    __  __
+                                 |_ _|___\ \/ /
+                                  | |/ __|\  / 
+                                  | |\__ \/  \ 
+                                 |___|___/_/\_\
+                                               
+```
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+[available in Hex](https://hex.pm/packages/is_x), the package can be installed as:
 
   1. Add `is_x` to your list of dependencies in `mix.exs`:
 
@@ -21,4 +38,4 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:is_x]]
     end
     ```
-
+[Documentation](https://hexdocs.pm/is_x/api-reference.html), :smile: 
