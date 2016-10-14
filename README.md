@@ -1,4 +1,6 @@
 # IsX
+
+[![Join the chat at https://gitter.im/is_x/Lobby](https://badges.gitter.im/is_x/Lobby.svg)](https://gitter.im/is_x/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  __________
 < Blackode >
  ----------
